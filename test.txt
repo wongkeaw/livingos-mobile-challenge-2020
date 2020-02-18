@@ -1,0 +1,3 @@
+npx react-native init ong-mobile
+cd ong-mobile
+npx react-native run-android
